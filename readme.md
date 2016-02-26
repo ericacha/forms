@@ -11,7 +11,7 @@ A form is created in HTML, once submitted connects with the PHP file and returns
 - Set your localhost root folder to ~/forms
 - Ensure PHP server is running.
 - Start the web app by pointing your browser to the root (http://localhost:8000/)
-- 
+
 
 ###Technologies Used:
 - PHP
